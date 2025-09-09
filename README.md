@@ -31,10 +31,25 @@
   -กดปุ่ม Camera reverse → สลับกล้องหน้า/หลัง
 
   ## ตัวอย่าง UI ที่ได้
-🔹 Camera Mode
-<img src="assets/screenshots/camera1.jpg" width="200" />
-<img src="assets/screenshots/camera2.jpg" width="200" />
-🔹 Preview Mode
-<img src="assets/screenshots/preview.jpg" width="200" />
-🔹 Gallery Mode
-<img src="assets/screenshots/gallery.jpg" width="200" />
+<table>
+  <tr>
+    <td align="center">
+      <b>Camera Mode</b><br>
+      <img src="assets/screenshots/camera1.jpg" width="250"/>
+    </td>
+    <td align="center">
+      <b>Camera Mode</b><br>
+      <img src="assets/screenshots/camera2.jpg" width="250"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Preview Mode</b><br>
+      <img src="assets/screenshots/preview.jpg" width="250"/>
+    </td>
+    <td align="center">
+      <b>Gallery Mode</b><br>
+      <img src="assets/screenshots/gallery.jpg" width="250"/>
+    </td>
+  </tr>
+</table>
