@@ -32,9 +32,9 @@
 
   ## ตัวอย่าง UI ที่ได้
 🔹 Camera Mode
-<img src="assets/camera1.jpg" width="250" />
-<img src="assets/camera2.jpg" width="250" />
+<img src="assets/screenshots/camera1.jpg" width="200" />
+<img src="assets/screenshots/camera2.jpg" width="200" />
 🔹 Preview Mode
-<img src="assets/preview.jpg" width="250" />
+<img src="assets/screenshots/preview.jpg" width="200" />
 🔹 Gallery Mode
-<img src="assets/gallery.jpg" width="250" />
+<img src="assets/screenshots/gallery.jpg" width="200" />
