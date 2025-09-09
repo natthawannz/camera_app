@@ -34,21 +34,21 @@
 <table>
   <tr>
     <td align="center">
-      <b>Camera Mode</b><br>
+      <b>กล้องหลัง</b><br>
       <img src="assets/screenshots/camera1.jpg" width="250"/>
     </td>
     <td align="center">
-      <b>Camera Mode</b><br>
+      <b>กล้องหน้า</b><br>
       <img src="assets/screenshots/camera2.jpg" width="250"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>Preview Mode</b><br>
+      <b>แสดงภาพที่ถ่าย พร้อมปุ่มถ่ายใหม่และปุ่มบันทึก</b><br>
       <img src="assets/screenshots/preview.jpg" width="250"/>
     </td>
     <td align="center">
-      <b>Gallery Mode</b><br>
+      <b>ภาพที่ถ่ายแสดงในเครื่อง</b><br>
       <img src="assets/screenshots/gallery.jpg" width="250"/>
     </td>
   </tr>
