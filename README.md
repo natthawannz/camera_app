@@ -48,7 +48,7 @@
       <img src="assets/screenshots/preview.jpg" width="250"/>
     </td>
     <td align="center">
-      <b>ภาพที่ถ่ายแสดงในเครื่อง</b><br>
+      <b>ภาพที่บันทึกลงในเครื่อง</b><br>
       <img src="assets/screenshots/gallery.jpg" width="250"/>
     </td>
   </tr>
